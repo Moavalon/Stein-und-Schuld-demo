@@ -1,0 +1,90 @@
+STEIN & SCHULD – DAS FREIE TAL
+Spielbare Windows-Demo 0.20 · Deutsch · Vorschau
+
+Eine Burg. Ein Tal. Zwölf Jahreszeiten, um seine Unabhängigkeit zu sichern.
+Du baust Eichenfels aus, teilst Arbeiter ein, versorgst die Bevölkerung und
+entscheidest, welche Verpflichtungen du gegenüber deinen Nachbarn eingehst.
+
+STARTEN
+1. Das komplette ZIP über „Alle extrahieren“ in einen eigenen Ordner entpacken.
+2. Stein-und-Schuld-0.20.exe doppelklicken.
+3. „Neue Geschichte beginnen“ und „Das freie Tal“ auswählen.
+4. Für den ersten Versuch „Leicht“ wählen und die Einstiegshilfe eingeschaltet
+   lassen. Die Einführung erklärt dir deine Aufgabe.
+
+Du benötigst keine Installation von Godot, Node.js oder anderen
+Entwicklerwerkzeugen. Kein Konto, keine Anmeldung und keine Internetverbindung
+zum Spielen erforderlich. Das Spiel ist eine eigenständige Windows-Anwendung;
+ein Browser wird dafür nicht benötigt. Es gibt kein Zeitlimit der Demo.
+
+DEIN ZIEL
+Nach zwölf abgeschlossenen Jahreszeiten entscheidet der Grenzrat über dein Tal.
+Benötigt werden ein fertiges Torhaus, mindestens 14 Korn im Lager und mindestens
+40 Zustimmung. Dazu wählst du einen dieser Wege:
+- einen fertigen steinernen Bergfried errichten;
+- eine eigene Wehrlinie aus mindestens sechs verbundenen fertigen
+  Mauerabschnitten und zwei angeschlossenen fertigen Türmen errichten;
+- Vertrauen gewinnen: mindestens 80 bei Falkenried und 65 bei Adelheid.
+
+Im Bereich „Ziele“ siehst du, was bereits erfüllt ist und was noch fehlt.
+Die Welt wird erst weitergerechnet, wenn du eine Jahreszeit abschließt.
+Du kannst in Ruhe planen. Nach dem Ergebnis bleibt freiwilliges Weiterbauen
+möglich. Die anderen Geschichten, einschließlich „Die Belagerung“, sind noch
+nicht spielbar und bleiben gesperrt.
+
+BEDIENUNG
+Die Reiter Burg, Dorf, Markt, Rat und Ziele öffnen die jeweiligen Spielbereiche.
+Minus gibt einen Arbeiter frei; Plus weist einen freien Arbeiter einem Beruf zu.
+Kosten und fehlende Vorräte stehen bei den Angeboten. Ein Werkzeug wird je
+abgeschlossener Jahreszeit bei aktivem Steinbruch verbraucht und verbessert
+dessen Ertrag. Ohne Werkzeuge wird weniger Stein gewonnen.
+
+? öffnet die Hilfe. Unter „Bedienung & Schrift“ lässt sich die Schrift bis auf
+130 Prozent vergrößern. Infohinweise bieten weitere Erläuterungen.
+Q/E oder rechte Maustaste: Kamera drehen. Mausrad: zoomen.
+Escape: Dialog schließen oder Baumodus beenden.
+F5: Speichern. F9: Laden. Tab/Eingabe: Schaltflächen wählen und aktivieren.
+Zum Beenden das Spielfenster schließen; vorher ausdrücklich speichern.
+
+SPEICHERN UND UPDATES
+Drei eigene Speicherplätze und automatische Sicherungen sind vorhanden.
+Speicherstände liegen außerhalb des entpackten Programmordners unter:
+%APPDATA%\Godot\app_userdata\Burgenbau – Stein & Schuld\herrschaft_slots
+Ein älterer einzelner Spielstand kann daneben als herrschaft.json liegen.
+Browser- und Windows-Spielstände sind getrennt.
+
+Vor einem Update das Spiel schließen und den gesamten genannten
+„Burgenbau – Stein & Schuld“-Datenordner separat sichern. Eine neue Version
+in einen neuen Programmordner entpacken; die alte EXE bis zur Prüfung behalten.
+Diese Vorschau lädt unterstützte ältere Stände. Ältere Programmversionen können
+neuere Spielstände möglicherweise nicht öffnen. Beim Rückwechsel eine Kopie
+der passenden alten Sicherung verwenden; keine einzige Sicherung überschreiben.
+Das Entfernen des Programmordners entfernt die extern gespeicherten Partien nicht.
+
+SYSTEM UND PRÜFSTAND
+Ziel: Windows 10/11 x64 auf einem PC mit Maus und Tastatur.
+Grafik: aktueller Treiber mit OpenGL 3.3; verwendeter Renderer: Compatibility.
+Godots x64-Laufzeit setzt eine passende CPU mit SSE4.2 voraus.
+Empfohlenes Fenster: mindestens 1280 × 720. Rund 200 MB freier Platz für
+entpacktes Programm und erste Spielstände einplanen; für das ZIP zusätzlich Platz.
+Diese Angaben sind Zielvoraussetzungen, keine umfassend vermessenen Mindestwerte.
+
+Die vollständige erste Mission und technische Speicher-/Bau-/Kampagnenprüfungen
+sind vorhanden. Dies ist weiterhin eine frühe Demo: Texte, Balance und Grafik
+werden weiterentwickelt. Verschiedene Windows-/Grafiksysteme und echte
+Touchgeräte sind noch nicht vollständig abgenommen. Mobile Browseransichten
+wurden separat simuliert; dieses ZIP enthält keinen Telefon- oder Mac-Build.
+Die drei Schwierigkeiten verändern derzeit die Startvorräte.
+
+Die EXE ist nicht mit einem Herausgeberzertifikat signiert. Windows oder dein
+Browser können deshalb warnen oder die Ausführung einschränken. Firmen- und
+Geräterichtlinien beachten. Die SHA-256-Datei neben dem Download prüft die
+Dateiübereinstimmung und ersetzt keine Herausgebersignatur.
+
+KONTAKT UND HINWEISE
+Projekt und Kontakt: https://roman-gutmann.at/
+Bei Rückmeldungen bitte Version, Windows-Version, Handlung und beobachtetes
+Verhalten nennen. Screenshots vorher auf private Angaben prüfen.
+Das Spiel enthält keinen automatischen Upload von Spielständen oder Fehlerberichten.
+Lizenzen und Herkunft der mitgelieferten Bestandteile: HINWEISE.txt sowie
+GODOT_LICENSE.txt und GODOT_COPYRIGHT.txt im selben Ordner.

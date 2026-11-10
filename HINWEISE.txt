@@ -1,0 +1,39 @@
+STEIN & SCHULD – HINWEISE ZUR DEMO
+
+Projekt: Roman Gutmann · https://roman-gutmann.at/
+Idee, Anforderungen, gestalterische Entscheidungen und Projektsteuerung:
+Roman Gutmann. Programmierung und technische Umsetzung mit OpenAI Codex.
+
+Dieses Paket ist eine kostenlose spielbare Vorschau. Es veröffentlicht keine
+zusätzliche Open-Source-Lizenz für den Spielcode oder die Spielinhalte.
+Die Lizenzen der mitgelieferten Fremdkomponenten gelten davon unabhängig.
+
+INHALTE DES SPIELS
+Spieltexte, prozedurale Burg-/Landschaftsgeometrie und die Gestaltung wurden
+für dieses Projekt erstellt. Die beiden mitgelieferten Klangdateien valley.wav
+und bell.wav wurden im Projekt synthetisiert, ohne externe Samples.
+Aus der früheren JavaScript-Version wurden keine Bilder, Modelle, Musik- oder
+Videodateien übernommen. Das Windows-Paket enthält keine externen Modell- oder
+Texturpakete und keine separat mitgelieferten Schriftdateien.
+
+SCHRIFTEN
+Die Oberfläche nutzt lokal verfügbare Systemschriften, bevorzugt Segoe UI.
+Diese Systemschriften werden nicht als eigene Dateien weitergegeben.
+Godots integrierte Schriftrenderer und mögliche Engine-Fallbacks fallen unter
+die Lizenzhinweise der mitgelieferten Engine.
+
+GODOT UND DRITTKOMPONENTEN
+Erstellt mit Godot Engine 4.7.2, Standardausgabe mit GDScript.
+Godot ist unter der MIT-Lizenz veröffentlicht; seine Lizenz gilt nicht
+automatisch für die eigentlichen Spielinhalte.
+Die vollständigen beigefügten Texte sind maßgeblich:
+- GODOT_LICENSE.txt: Godots Copyright- und MIT-Lizenzhinweis.
+- GODOT_COPYRIGHT.txt: Hinweise und Lizenztexte zu Godot-Drittkomponenten.
+Weitere Informationen: https://godotengine.org/license/
+
+Node.js, Entwicklungswerkzeuge, der lokale Browser-Vorschauserver und die
+analytischen Farbsimulationen sind nicht Bestandteil dieses Windows-Pakets.
+
+Das separate Quellprojekt-ZIP, interne Aufgaben-/Prüfunterlagen und vorhandene
+Spielstände gehören nicht zum Demodownload. Die EXE enthält die für das Spiel
+benötigten Godot-Ressourcen; sie bietet keinen technischen Ausleseschutz.
